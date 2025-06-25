@@ -77,12 +77,12 @@ I'm a self-taught developer based in Bangladesh, focused on building user-friend
 
 2. **[My Portfolio](https://github.com/tareqaziz1187/My-Portfolio)**  
    🗒️ *Personal developer portfolio with smooth scroll and project showcase.*  
-   🔗 [Live Site](https://tareqaziz-portfolio.netlify.app)  
+   🔗 [Live Site](https://tareqaziz1187.github.io/My-Portfolio/)  
    ⚙️ React, Tailwind CSS
 
 3. **[Todo App](https://github.com/tareqaziz1187/Todo-App)**  
    🗒️ *Simple and responsive to-do app with CRUD operations.*  
-   🔗 [Live Site](https://tareqtodo.netlify.app)  
+   🔗 [Live Site](https://tareqaziz1187.github.io/To-Do-List/)  
    ⚙️ React, Local Storage
 
 ---
