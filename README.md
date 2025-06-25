@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/1mPzRzX/dev-banner.png" alt="Tareq Aziz Banner" style="width:100%;"/>
+<img src="8469936.jpg" alt="Tareq Aziz Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm TAREQ AZIZ</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | Backend Learner</h3>
